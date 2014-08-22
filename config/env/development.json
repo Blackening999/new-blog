@@ -1,0 +1,13 @@
+{
+	"db": "mongodb://localhost/new-blog",
+	"db_options": {
+		"server": {
+			"socketOptions": {
+				"keepAlive": 1
+			}
+		}
+	},
+	"app": {
+		"name": "New Blog - Development"
+	}
+}

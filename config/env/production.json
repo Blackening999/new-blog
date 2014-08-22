@@ -1,0 +1,13 @@
+{
+    "db": "production config",
+    "db_options": {
+        "server": {
+            "socketOptions": {
+                "keepAlive": 1
+            }
+        }
+    },
+    "app": {
+        "name": "New Blog - Production"
+    }
+}
