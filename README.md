@@ -1,4 +1,5 @@
-new-blog
+Ember + Node Blog
 ========
 
-Repo for tutorial "Building complete App with Ember and Node.js"
+This is a repo for tutorial "Building complete App with Ember and Node.js"
+You can find more information here: http://katansky-blog.com
